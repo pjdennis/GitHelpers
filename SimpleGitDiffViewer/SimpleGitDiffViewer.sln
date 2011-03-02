@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGitDiffViewer", "SimpleGitDiffViewer\SimpleGitDiffViewer.csproj", "{B82C7B8C-0DFB-40E7-9331-2C730A27BB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGitDiffViewerTests", "SimpleGitDiffViewerTests\SimpleGitDiffViewerTests.csproj", "{626A972D-F83D-415A-BFD0-C87BB0B9F2F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82C7B8C-0DFB-40E7-9331-2C730A27BB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82C7B8C-0DFB-40E7-9331-2C730A27BB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82C7B8C-0DFB-40E7-9331-2C730A27BB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82C7B8C-0DFB-40E7-9331-2C730A27BB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626A972D-F83D-415A-BFD0-C87BB0B9F2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626A972D-F83D-415A-BFD0-C87BB0B9F2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626A972D-F83D-415A-BFD0-C87BB0B9F2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626A972D-F83D-415A-BFD0-C87BB0B9F2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
